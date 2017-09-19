@@ -1,30 +1,26 @@
 QMSS GIS/Spatial Analysis
 =========================
 
-While everyone is still getting settled and added to canvas, we'll share the files and notes here.
+While everyone is still getting settled and added to canvas, we'll share the files and notes here. If you find any errors/broken links, please email me at geelon.so [at] columbia [dot] edu.
 
 Contents
 --------
 
+- [Syllabus](#syllabus)
 - [Downloads/Software](#downloads)
-- [Syllabus](syllabus.pdf)
 - [Lab 2 - September 18](#lab2)
 - [Lab 1 - September 11](#lab1)
 - [Homework 1](#homework1)
 
 
+Syllabus
+--------
+[Syllabus](syllabus.pdf)
 
 Downloads
 ---------
 Software: QGIS 2.18 (use QGIS Desktop)
 
-- [Syllabus](syllabus.pdf)
-- HW 1 file: [MD_PAdata](MD_PAdata.zip)
-- Lab 1 file: [Life Expectancy](lifeexpectancy.zip)
-
-
-Lab2
-----
 ### Sources of Data
 
 - [IPMUMS International](https://international.ipums.org/international/)
@@ -33,6 +29,38 @@ Lab2
 - [US Census Shapefiles](https://www.census.gov/geo/maps-data/data/tiger-line.html)
 - [US Census---MSA](https://www.census.gov/programs-surveys/metro-micro/data/datasets.html)
 - CDC, NIH
+
+
+Homework2
+---------
+### Files
+
+- All General Bookstores: [All_General_Bookstores.zip](hw2/All_General_Bookstores.zip)
+- Census Tracts: [CensusTracts_2.zip](lab2/CensusTracts_2.zip)
+
+### Assignment
+The goal of this homework exercise is to get you to examine point patterns, as well as the relationship between multiple map layers, points and polygons.   We use a business example, but note that the skills you use here are useful for all kinds of data manipulation and creation that will be helpful for different social science research projects.
+
+Here is the scenario.  You have had a long and impressive career, but now you are ready to retire.  You are interested in opening up a bookstore in New York.  Use the buffer tool with the following point data (bookstores) and polygon data (census tracts with demographic information) to find a neighborhood that has the demographics that will help you to build a profitable business.   Note that Census tracts offer a rough approximation of neighborhoods.
+
+You will find in the data locations with X,Y coordinates/point data of a particular type of business:   Bookstores.    Use QGIS to put the point pattern of bookstores up on the map.  Next put up the map of census tracts, and make this layer the second layer in the table of contents.    Select and subset the data for census tracts in New York state only (use State FIPS Code 36).   Create a new layer for NY state census tracts only.  Use the spatial query function of QGIS to select and then create a new layer of bookstores that overlay with NY state census tracts.  Save both NY layers to shapefiles with the same projection: USA Contiguous Equidistant Conic.  Delete all other layers and import these newly projected layers back into QGIS. 
+
+Use the the project > project properties menu to be sure the “on the fly” projections are not turned on.  Create a five kilometer buffer around the bookstores.  Then join data by attributes such that the bookstore data is merged by location into your NY state census tract demographic data.  Export the data to a CSV (or DBF) file, add a new column in excel (or some other program) that labels tracts that have bookstores with a “1” and all others with a “0”.  Now use this data to analyze/tabulate differences between census tracts that do or do not have bookstores.  For example, you might find the the mean for median income for tracts with bookstores and without bookstores (or the same for population and other demographic values).  Use the information from this analysis to find a particular census tract (i.e.-neighborhood) that has the demographic characteristics that you believe will help you to create a profitable business.
+
+Explain which tract you chose and why in your write-up.
+
+Be sure to print out a map of the points and buffer overlaying the census tract polygons in NY state and hand these in with your write-up.
+
+Write three-four paragraphs (12 pt font and double-spaced) commenting on what you see in these data once they are visualized. Your write-up should be posted to Canvas via the upload functionality for this assignment. Filenames should be formatted as follows: Lastname_Firstname_HW2.doc (or docx)
+
+
+
+Lab2
+----
+### Files
+
+- Census Tracts: [CensusTracts_2.zip](lab2/CensusTracts_2.zip)
+- Zombies: [zombies2.csv](lab2/zombies2.csv)
 
 ### Step 1: Import the Census Tracts
 As in the previous lab, in add the census tract data: ```Layer > Add Layer > Add Vector Layer```. The source should be the file ```CensusTracts_2.shp```.
@@ -124,6 +152,10 @@ As a result, when we go inspect the Attributes Table (right click on the newly f
 
 Lab1
 ----
+### Files
+
+- [lifeexpectancy.zip](lab1/lifeexpectancy.zip)
+
 Types of files used by QGIS:
 
 - .dbf is a database file, with data in tabular form.
@@ -139,7 +171,7 @@ Types of files used by QGIS:
 
 - Draw a box using the select button.
 
-<img src='img/select.png' />
+<img src='lab1/img/select.png' />
 
 - Try selecting only South America.
 
@@ -159,7 +191,7 @@ Types of files used by QGIS:
 - Click on ```Attribute Table``` to see the associated data.
 - A useful too is the Expression Builder to filter out the specific data you want to look for. At the top of the Attribute Table menu bar, there is a yellow square with an $\epsilon$.
 
-<img src='img/expression.png' />
+<img src='lab1/img/expression.png' />
 
 ## Step 6: Changing Style of Objects
 
@@ -168,16 +200,16 @@ Types of files used by QGIS:
 - Let's try to categorize by different countries. At the top of the menu, click on the drop-down menu saying "Single Symbol", and change to "Categorized".
 - We can now create a visualization that are based on the data. In ```Column``` you can choose a data field. Select one, then near the bottom, click on ```Classify```.
 
-<img src='img/categorized.png' />
+<img src='lab1/img/categorized.png' />
 
 - Now, let's use ```Graduated``` instead of ```Categorized```.
 - For example, change ```Column``` to ```POP_K```, and click on ```Classify```, like so:
 
-<img src='img/graduated.png' />
+<img src='lab1/img/graduated.png' />
 
 - Note that you can change the mode. ```Quantile (Equal Count)``` makes a lot of sense, for example, for population:
 
-<img src='img/population_quantile.png' />
+<img src='lab1/img/population_quantile.png' />
 
 
 ## Step 7: Creating Points
@@ -186,7 +218,7 @@ Types of files used by QGIS:
 - Let's create the *centroid* of a polygon (essentially, the center of mass of the shape).
 - Go to the menu bar, ```Vector > Geometry Tools > Polygon centroids```, then just hit ```Run```.
 
-<img src='img/centroids.png' />
+<img src='lab1/img/centroids.png' />
 
 - Now, right-click on ```Centroids``` in the Layers Panel, and go to ```Properties```.
 - Set the classification method to ```Graduated```.
@@ -194,7 +226,7 @@ Types of files used by QGIS:
 - Let's work with ```POP_K``` in ```Column``` again.
 - Hit classify.
 
-<img src='img/size_dots.png' />
+<img src='lab1/img/size_dots.png' />
 
 - Go ahead and play with the settings.
 
@@ -204,7 +236,7 @@ Types of files used by QGIS:
 - On top, change the drop-down menu with ```Show labels for this layer```.
 - Set ```Label with``` to ```NAME```, for example.
 
-<img src='img/labels.png' />
+<img src='lab1/img/labels.png' />
 
 - The white buffers around the text was set under ```Buffers```.
 
@@ -214,7 +246,7 @@ Types of files used by QGIS:
 - One of the buttons on the right button bar is ```Add new map```.
 - Create a region on the page for the map.
 
-<img src='img/composer.png' />
+<img src='lab1/img/composer.png' />
 
 - Add titles by including a text box. Can also add a legend.
 - To export, go to the menu bar, ```Composer > Export as Image``` or ```Composer > Export as PDF```.
@@ -224,11 +256,11 @@ Types of files used by QGIS:
 
 - After class, a classmate mentioned that if you plot ```LIFEXPCT```, there is one value that is negative!
 
-<img src='img/negative.png' />
+<img src='lab1/img/negative.png' />
 
 - You can do a quick clean up of the data with the *expression editor* for the ```Column``` field, like so:
 
-<img src='img/clean.png' />
+<img src='lab1/img/clean.png' />
 
 - What this says is: "in the case when ```LIFEXPCT``` is nonnegative, then return ```LIFEXPCT``` (end)." Thus, only when the value of life expectancy is nonnegative will the value be shown.
 
@@ -237,7 +269,7 @@ Homework1
 ---------
 ### Files
 
-[MD_PAdata](MD_PAdata.zip)
+[MD_PAdata](hw1/MD_PAdata.zip)
 
 ### Intro to QGIS
 
