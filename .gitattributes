@@ -1,0 +1,2 @@
+lab2/CensusTracts_2.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
