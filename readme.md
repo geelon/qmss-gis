@@ -1,34 +1,18 @@
 QMSS GIS/Spatial Analysis
 =========================
 
-While everyone is still getting settled and added to canvas, we'll share the files and notes here. If you find any errors/broken links, please email me at geelon.so [at] columbia [dot] edu.
+While everyone is still getting settled and added to canvas, we'll share the files and notes here. If you find any errors/broken links, please email me at *geelon.so [at] columbia [dot] edu*.
 
 Contents
 --------
 
-- [Syllabus](#syllabus)
-- [Downloads/Software](#downloads)
+- [Syllabus](syllabus.pdf)
+- [Homework 2](#homework2)
 - [Lab 2 - September 18](#lab2)
-- [Lab 1 - September 11](#lab1)
 - [Homework 1](#homework1)
+- [Lab 1 - September 11](#lab1)
+- [Downloads/Software](#downloads)
 
-
-Syllabus
---------
-[Syllabus](syllabus.pdf)
-
-Downloads
----------
-Software: QGIS 2.18 (use QGIS Desktop)
-
-### Sources of Data
-
-- [IPMUMS International](https://international.ipums.org/international/)
-- [Global Administrative Areas](http://gadm.org/country)
-- [Columbia Spatial Data](https://geodata.library.columbia.edu/)
-- [US Census Shapefiles](https://www.census.gov/geo/maps-data/data/tiger-line.html)
-- [US Census---MSA](https://www.census.gov/programs-surveys/metro-micro/data/datasets.html)
-- CDC, NIH
 
 
 Homework2
@@ -150,6 +134,21 @@ As a result, when we go inspect the Attributes Table (right click on the newly f
 
 
 
+Homework1
+---------
+### Files
+
+[MD_PAdata](hw1/MD_PAdata.zip)
+
+### Intro to QGIS
+
+The goal of this homework exercise is to get you started using QGIS for basic data mapping and visualization tasks.   Using the data set for Maryland and Pennsylvania counties in “MDPAdata.shp” investigate and map two of the variables that you suspect might be related to one another.   Use choropleth shading for both.  Use either quantiles or natural breaks to display the data, but be sure to explain your choice.
+
+Save your maps to an image file and paste them into a word document for your write-up.
+
+Once you have used QGIS to map the two variables, write three-four paragraphs (12 pt font and double-spaced) commenting on what you see in these data once they are visualized.   Your write-up with your newly created maps should be posted to Canvas via the upload functionality for this assignment.  Filenames should be formatted as follows: Lastname_Firstname_HW1.doc  (or docx).
+
+
 Lab1
 ----
 ### Files
@@ -265,18 +264,17 @@ Types of files used by QGIS:
 - What this says is: "in the case when ```LIFEXPCT``` is nonnegative, then return ```LIFEXPCT``` (end)." Thus, only when the value of life expectancy is nonnegative will the value be shown.
 
 
-Homework1
+
+Downloads
 ---------
-### Files
+Software: QGIS 2.18 (use QGIS Desktop)
 
-[MD_PAdata](hw1/MD_PAdata.zip)
+### Sources of Data
 
-### Intro to QGIS
-
-The goal of this homework exercise is to get you started using QGIS for basic data mapping and visualization tasks.   Using the data set for Maryland and Pennsylvania counties in “MDPAdata.shp” investigate and map two of the variables that you suspect might be related to one another.   Use choropleth shading for both.  Use either quantiles or natural breaks to display the data, but be sure to explain your choice.
-
-Save your maps to an image file and paste them into a word document for your write-up.
-
-Once you have used QGIS to map the two variables, write three-four paragraphs (12 pt font and double-spaced) commenting on what you see in these data once they are visualized.   Your write-up with your newly created maps should be posted to Canvas via the upload functionality for this assignment.  Filenames should be formatted as follows: Lastname_Firstname_HW1.doc  (or docx).
-
+- [IPMUMS International](https://international.ipums.org/international/)
+- [Global Administrative Areas](http://gadm.org/country)
+- [Columbia Spatial Data](https://geodata.library.columbia.edu/)
+- [US Census Shapefiles](https://www.census.gov/geo/maps-data/data/tiger-line.html)
+- [US Census---MSA](https://www.census.gov/programs-surveys/metro-micro/data/datasets.html)
+- CDC, NIH
 
