@@ -1,0 +1,515 @@
+name,number,street,city,state,zip,country,nhood,phone,employees,sales_vol,full_add
+02 Cafe,1001,Massachusetts Ave,Cambridge,MA,02138,USA,Mid-Cambridge,(617) 492-2233,1,68000,1001 Massachusetts Ave
+1369 Coffee House,1369,Cambridge St,Cambridge,MA,02139,USA,Inman Square,(617) 576-1369,13,727000,1369 Cambridge St
+1369 Coffee House,757,Massachusetts Ave,Cambridge,MA,02139,USA,Mid-Cambridge,(617) 576-4600,15,839000,757 Massachusetts Ave
+2nd Street Cafe,89,2nd St # 1,Cambridge,MA,02141,USA,East Cambridge,(617) 661-1311,2,112000,89 2nd St # 1
+9 Tastes,50,Jfk St # 1,Cambridge,MA,02138,USA,Harvard Square,(617) 547-6666,6,336000,50 Jfk St # 1
+A Bc Pizza,744,Massachusetts Ave,Cambridge,MA,02139,USA,Riverside,(617) 876-4607,1,56000,744 Massachusetts Ave
+Abbey-Cambridge,1755,Massachusetts Ave,Cambridge,MA,02140,USA,Aggasiz - Harvard University,(617) 714-4944,6,336000,1755 Massachusetts Ave
+Abigail's,291,3rd St,Cambridge,MA,02142,USA,Kendall Square,(617) 945-9086,10,560000,291 3rd St
+Aceituna Cafe,605,W Kendall St,Cambridge,MA,02142,USA,Kendall Square,(617) 252-0702,9,504000,605 W Kendall St
+Alden & Harlow,40,Brattle St,Cambridge,MA,02138,USA,Harvard Square,(617) 864-2100,6,336000,40 Brattle St
+Alfredo's Italian Kitchen,696,Cambridge St,Cambridge,MA,02141,USA,,(617) 491-8292,6,336000,696 Cambridge St
+Algiers Coffee House,40,Brattle St # 3,Cambridge,MA,02138,USA,Harvard Square,(617) 492-1557,16,895000,40 Brattle St # 3
+All Star Pizza Bar,1238,Cambridge St,Cambridge,MA,02139,USA,Inman Square,(617) 547-0836,6,336000,1238 Cambridge St
+All Star Sandwich Bar,1245,Cambridge St,Cambridge,MA,02139,USA,Inman Square,(617) 868-3065,12,671000,1245 Cambridge St
+Al's Deli Cafe-Cambridge,1354,Massachusetts Ave,Cambridge,MA,02138,USA,Harvard Square,(617) 441-9100,6,336000,1354 Massachusetts Ave
+Amelia's Trattoria,111,Harvard St,Cambridge,MA,02139,USA,Area IV,(617) 868-7600,10,560000,111 Harvard St
+Andy's Diner,2030,Massachusetts Ave,Cambridge,MA,02140,USA,Porter Square,(617) 497-1444,5,280000,2030 Massachusetts Ave
+Angelo's Pizza,444,Broadway,Cambridge,MA,02138,USA,Mid-Cambridge,(617) 661-8049,2,112000,444 Broadway
+Anna's Taqueria,822,Somerville Ave,Cambridge,MA,02140,USA,,(617) 661-8500,27,1510000,822 Somerville Ave
+Anna's Taqueria,84,Massachusetts Ave,Cambridge,MA,02139,USA,Mit,(617) 324-2662,20,1119000,84 Massachusetts Ave
+Anytime Pizza,212,Western Ave,Cambridge,MA,02139,USA,Riverside,(617) 500-4567,6,336000,212 Western Ave
+Aramark Education Svc,325,Main St,Cambridge,MA,02142,USA,,(617) 714-3687,22,959000,325 Main St
+Aram's Pizza & Subs,345,Cambridge St,Cambridge,MA,02141,USA,East Cambridge,(617) 354-5154,5,280000,345 Cambridge St
+Arby's,1385,Cambridge St # 1,Cambridge,MA,02139,USA,Inman Square,(309) 692-0205,20,1119000,1385 Cambridge St # 1
+Area Four Cambridge,500,Technology Sq # 4,Cambridge,MA,02139,USA,Kendall Square,(617) 758-4444,6,336000,500 Technology Sq # 4
+Ariadne Clifton Inc,16,Parker St,Cambridge,MA,02138,USA,West Cambridge,(617) 354-3681,1,56000,16 Parker St
+Armando's Pizza,163,Huron Ave,Cambridge,MA,02138,USA,West Cambridge,(617) 354-8275,3,168000,163 Huron Ave
+Artbar,40,Edwin H Land Blvd,Cambridge,MA,02142,USA,East Cambridge,(617) 806-4122,10,560000,40 Edwin H Land Blvd
+Asgard,350,Massachusetts Ave # 102,Cambridge,MA,02139,USA,Cambridgeport,(617) 577-9100,48,2684000,350 Massachusetts Ave # 102
+Asmara Restaurant,739,Massachusetts Ave,Cambridge,MA,02139,USA,Mid-Cambridge,(617) 864-7447,5,280000,739 Massachusetts Ave
+Atasca Broadway,279,Broadway,Cambridge,MA,02139,USA,Inman Square,(617) 354-4355,6,336000,279 Broadway
+Atomic Bean Cafe,904,Massachusetts Ave,Cambridge,MA,02139,USA,Riverside,(617) 499-0972,6,336000,904 Massachusetts Ave
+Atomic Bean Cafe,902,Massachusetts Ave,Cambridge,MA,02139,USA,,(617) 499-0972,6,336000,902 Massachusetts Ave
+Au Bon Pain,684,Massachusetts Ave,Cambridge,MA,02139,USA,Riverside,(617) 492-0884,21,1175000,684 Massachusetts Ave
+Au Bon Pain,238,Main St,Cambridge,MA,02142,USA,Kendall Square,(617) 491-9751,30,1678000,238 Main St
+Au Bon Pain,120,Vassar St # W-35,Cambridge,MA,02139,USA,Mit,(617) 253-6325,1,56000,120 Vassar St # W-35
+Au Bon Pain,100,Cambridgeside Pl # 137,Cambridge,MA,02141,USA,East Cambridge,(617) 225-0347,22,1230000,100 Cambridgeside Pl # 137
+B & B Snack Bar,55,Broadway,Cambridge,MA,02142,USA,Kendall Square,(617) 494-2447,3,273000,55 Broadway
+Bab Al Amoud Cafe,148,150 Western Ave,Cambridge,MA,02139,USA,,(617) 945-0733,6,0,148 150 Western Ave
+Bagelsaurus,1796,Massachusetts Ave,Cambridge,MA,02140,USA,Neighborhood Nine,(857) 285-6103,6,0,1796 Massachusetts Ave
+Bailey & Sage,355,Main St # 103,Cambridge,MA,02142,USA,,(617) 714-4138,9,504000,355 Main St # 103
+Bambara Restaurant,25,Edwin H Land Blvd,Cambridge,MA,02141,USA,East Cambridge,(617) 868-4444,30,1678000,25 Edwin H Land Blvd
+Bao Nation,571,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 547-0295,6,336000,571 Massachusetts Ave
+Baraka Cafe,1728,Massachusetts Ave,Cambridge,MA,02138,USA,Neighborhood Nine,(617) 868-3951,2,112000,1728 Massachusetts Ave
+Basha Ethiopian Rstrnt & Bar,26,New St,Cambridge,MA,02138,USA,Neighborhood Nine,(617) 945-7683,6,336000,26 New St
+Basil Tree Inc,10,Fawcett St,Cambridge,MA,02138,USA,Cambridge Highlands,(617) 776-9100,30,1678000,10 Fawcett St
+Basta Pasta,319,Western Ave,Cambridge,MA,02139,USA,Riverside,(617) 576-6672,2,112000,319 Western Ave
+Bean Town Taqueria,245,Massachusetts Ave,Cambridge,MA,02139,USA,Area IV,(617) 441-8689,2,112000,245 Massachusetts Ave
+Beantown Taqueria,148,Western Ave,Cambridge,MA,02139,USA,,(617) 864-6969,6,336000,148 Western Ave
+Beantowne Coffee House,1,Kendall Sq # B2105,Cambridge,MA,02139,USA,Wellington - Harrington,(617) 621-7900,7,392000,1 Kendall Sq # B2105
+Beat Hotel,13,Brattle St,Cambridge,MA,02138,USA,Harvard Square,(617) 499-0001,99,5535000,13 Brattle St
+Beauty's Pizza,187,Hampshire St,Cambridge,MA,02139,USA,Inman Square,(617) 876-6969,6,0,187 Hampshire St
+Beijing Tokyo,781,Main St,Cambridge,MA,02139,USA,Area IV,(617) 354-3388,8,448000,781 Main St
+Belliful,333,Harvard St # 4,Cambridge,MA,02139,USA,Mid-Cambridge,(847) 409-7978,1,56000,333 Harvard St # 4
+Belly Wine Bar,1,Kendall Sq,Cambridge,MA,02139,USA,Wellington - Harrington,(617) 494-0968,6,336000,1 Kendall Sq
+Ben & Jerry's,36,Jfk St # 13,Cambridge,MA,02138,USA,Harvard Square,(617) 864-2828,11,615000,36 Jfk St # 13
+Berryline,1,Arrow St,Cambridge,MA,02138,USA,Riverside,(617) 868-3500,10,560000,1 Arrow St
+Bertucci's,799,Main St,Cambridge,MA,02139,USA,Area IV,(617) 661-8356,50,2796000,799 Main St
+Bertucci's,21,Brattle St,Cambridge,MA,02138,USA,Harvard Square,(617) 864-4748,45,2516000,21 Brattle St
+Bertucci's,5,Cambridgepark Dr # 1,Cambridge,MA,02140,USA,North Cambridge,(617) 876-2200,65,3635000,5 Cambridgepark Dr # 1
+Bisuteki Tokyo Japanese Steak,777,Memorial Dr,Cambridge,MA,02139,USA,Cambridgeport,(617) 497-8888,6,336000,777 Memorial Dr
+Black Sheep Rstrnt At,350,Main St,Cambridge,MA,02142,USA,Kendall Square,(617) 577-1300,10,560000,350 Main St
+Blaze Pizza,1,Canal Park,Cambridge,MA,02141,USA,East Cambridge,(857) 220-9400,3,336000,1 Canal Park
+Blue Fin,1815,Massachusetts Ave # 3,Cambridge,MA,02140,USA,Porter Square,(617) 497-8022,12,671000,1815 Massachusetts Ave # 3
+Blue Room,1,Kendall Sq # B2001,Cambridge,MA,02139,USA,Wellington - Harrington,(617) 494-9034,75,4194000,1 Kendall Sq # B2001
+Boca Grande,1728,Massachusetts Ave,Cambridge,MA,02138,USA,Neighborhood Nine,(617) 354-7400,15,839000,1728 Massachusetts Ave
+Boca Grande Taqueria,149,1st St,Cambridge,MA,02142,USA,East Cambridge,(617) 354-5550,5,280000,149 1st St
+Boloco,71,Mount Auburn St,Cambridge,MA,02138,USA,Harvard Square,(617) 354-5838,9,504000,71 Mount Auburn St
+Bom Cafe,1093,Cambridge St,Cambridge,MA,02139,USA,Inman Square,(617) 864-0395,10,560000,1093 Cambridge St
+Bon Appetit Caterers,96,Concord Ave,Cambridge,MA,02138,USA,Huron Village,(617) 484-4900,4,224000,96 Concord Ave
+Bon Appetit Management Co,31,Everett St,Cambridge,MA,02138,USA,Aggasiz - Harvard University,(617) 349-8380,47,2628000,31 Everett St
+Bon Me,201,Alewife Brook Pkwy,Cambridge,MA,02138,USA,Cambridge Highlands,(617) 945-2822,6,336000,201 Alewife Brook Pkwy
+Bon Me,1,Kendall Sq # B3105,Cambridge,MA,02139,USA,Wellington - Harrington,(617) 945-2615,6,336000,1 Kendall Sq # B3105
+Bonchon Chicken,57,Jfk St # 5,Cambridge,MA,02138,USA,Harvard Square,(617) 868-0981,10,560000,57 Jfk St # 5
+Border Cafe-Cambridge,32,Church St,Cambridge,MA,02138,USA,Harvard Square,(617) 864-6100,110,6150000,32 Church St
+Bosphorus Mediterranean Rstrnt,1164,Cambridge St,Cambridge,MA,02139,USA,Inman Square,(617) 945-2730,6,336000,1164 Cambridge St
+Boston Burger Co,1105,Massachusetts Ave,Cambridge,MA,02138,USA,Mid-Cambridge,(857) 242-3605,6,336000,1105 Massachusetts Ave
+Bridgesteet Restaurant,1166,Cambridge St,Cambridge,MA,02139,USA,,(857) 242-3103,6,336000,1166 Cambridge St
+Broadway Market Place LLC,468,Broadway # 2,Cambridge,MA,02138,USA,Mid-Cambridge,(617) 547-2334,3,840000,468 Broadway # 2
+Brookline Lunch,9,Brookline St,Cambridge,MA,02139,USA,Cambridgeport,(617) 354-2983,2,112000,9 Brookline St
+Bruegger's Bagels,1876,Massachusetts Ave,Cambridge,MA,02140,USA,Porter Square,(617) 576-6163,10,548000,1876 Massachusetts Ave
+B-Side Lounge,92,Hampshire St,Cambridge,MA,02139,USA,Area IV,(617) 354-0766,6,336000,92 Hampshire St
+Bukowski's Tavern,1281,Cambridge St,Cambridge,MA,02139,USA,Inman Square,(617) 497-7077,12,671000,1281 Cambridge St
+Burger King,679,Concord Ave,Cambridge,MA,02138,USA,Cambridge Highlands,(617) 354-2375,24,1342000,679 Concord Ave
+Burger King,100,Cambridgeside Pl # W226,Cambridge,MA,02141,USA,East Cambridge,(617) 494-4843,22,1230000,100 Cambridgeside Pl # W226
+Bytes At University Park MIT,64,Sidney St # 1,Cambridge,MA,02139,USA,Cambridgeport,(617) 621-3513,1,56000,64 Sidney St # 1
+Cafe Anthony 983,983,Massachusetts Ave,Cambridge,MA,02138,USA,,(617) 945-2687,6,336000,983 Massachusetts Ave
+Cafe Luna,403,Massachusetts Ave,Cambridge,MA,02139,USA,Area IV,(617) 576-3400,2,112000,403 Massachusetts Ave
+Cafe Mami,1815,Massachusetts Ave # P7,Cambridge,MA,02140,USA,Porter Square,(617) 547-9130,4,224000,1815 Massachusetts Ave # P7
+Cafe Pamplona,12,Bow St,Cambridge,MA,02138,USA,Riverside,(617) 492-0352,6,336000,12 Bow St
+Cafe Sushi,1105,Massachusetts Ave,Cambridge,MA,02138,USA,Mid-Cambridge,(617) 492-0434,10,560000,1105 Massachusetts Ave
+Cafe Zing,25,White St,Cambridge,MA,02140,USA,Porter Square,(617) 497-9464,5,280000,25 White St
+California Pizza Kitchen,100,Cambridgeside Pl # W102,Cambridge,MA,02141,USA,East Cambridge,(617) 225-2772,100,5591000,100 Cambridgeside Pl # W102
+Cambridge 1-Cambridge,27,Church St,Cambridge,MA,02138,USA,Harvard Square,(617) 576-1111,31,1734000,27 Church St
+Cambridge Brewing Co,1,Kendall Sq # B1102,Cambridge,MA,02139,USA,Wellington - Harrington,(617) 494-1994,35,1957000,1 Kendall Sq # B1102
+Cambridge Common,1667,Massachusetts Ave,Cambridge,MA,02138,USA,Aggasiz - Harvard University,(617) 547-1228,50,2796000,1667 Massachusetts Ave
+Cambridge Deli & Grill,90,River St,Cambridge,MA,02139,USA,Cambridgeport,(617) 868-6740,2,112000,90 River St
+Cambridge House Of Pizza,2420,Massachusetts Ave,Cambridge,MA,02140,USA,North Cambridge,(617) 876-8083,3,168000,2420 Massachusetts Ave
+Cambridge Savings Bank,1378,Cambridge St,Cambridge,MA,02139,USA,Inman Square,(617) 864-8700,75,17838000,1378 Cambridge St
+Cambridge Wine & Spirits,202,Alewife Brook Pkwy,Cambridge,MA,02138,USA,Cambridge Highlands,(617) 864-7171,6,336000,202 Alewife Brook Pkwy
+Cambridge Winter Farmers Mkt,5,Callender St,Cambridge,MA,02139,USA,Riverside,(617) 547-6811,1,336000,5 Callender St
+Camie's,152,Columbia St,Cambridge,MA,02139,USA,Area IV,(617) 661-4878,3,168000,152 Columbia St
+Cancun Taqueria,1105,Massachusetts Ave # 5,Cambridge,MA,02138,USA,Mid-Cambridge,(857) 242-3344,6,336000,1105 Massachusetts Ave # 5
+Cantab Lounge,738,Massachusetts Ave,Cambridge,MA,02139,USA,Riverside,(617) 354-2685,10,537000,738 Massachusetts Ave
+Casa Portugal,1200,Cambridge St,Cambridge,MA,02139,USA,Inman Square,(617) 491-8880,6,336000,1200 Cambridge St
+Casbah,26,New St # 2,Cambridge,MA,02138,USA,Neighborhood Nine,(617) 945-7314,6,336000,26 New St # 2
+Catalyst Restaurant,300,Technology Sq # 3,Cambridge,MA,02139,USA,Kendall Square,(617) 576-3000,30,1678000,300 Technology Sq # 3
+Central Brew Cafe & Espresso,350,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 250-8471,5,280000,350 Massachusetts Ave
+Central Kitchen,567,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 491-5599,20,1119000,567 Massachusetts Ave
+C'Est Bon,1432,Massachusetts Ave,Cambridge,MA,02138,USA,Harvard Square,(617) 661-1709,6,336000,1432 Massachusetts Ave
+Champions-Kendall Square,50,Broadway,Cambridge,MA,02142,USA,,(617) 252-4444,6,336000,50 Broadway
+Chang Shing Tofu Inc,37,Rogers St,Cambridge,MA,02142,USA,East Cambridge,(617) 868-8878,8,13803000,37 Rogers St
+Changsho Restaurant,1712,Massachusetts Ave,Cambridge,MA,02138,USA,Neighborhood Nine,(617) 547-6565,20,1119000,1712 Massachusetts Ave
+Charles Hotel,1,Bennett St,Cambridge,MA,02138,USA,Harvard Square,(617) 864-1200,400,45624000,1 Bennett St
+Charles River Boat Co,100,Cambridgeside Pl # 309,Cambridge,MA,02141,USA,East Cambridge,(617) 621-3001,4,224000,100 Cambridgeside Pl # 309
+Charlie's Kitchen,10,Eliot St,Cambridge,MA,02138,USA,Harvard Square,(617) 492-9646,30,1678000,10 Eliot St
+Cheesecake Factory,100,Cambridgeside Pl # E102,Cambridge,MA,02141,USA,,(617) 252-3810,250,13978000,100 Cambridgeside Pl # E102
+Chiang Mai Thai Cambridge Inc,100,Cambridgeside Pl,Cambridge,MA,02141,USA,East Cambridge,(617) 577-0250,6,336000,100 Cambridgeside Pl
+Chicago Pizza,239,Massachusetts Ave,Cambridge,MA,02139,USA,Area IV,(617) 497-5555,2,112000,239 Massachusetts Ave
+Chicken Now,100,Cambridgeside Pl # 158,Cambridge,MA,02141,USA,East Cambridge,(617) 225-2220,8,448000,100 Cambridgeside Pl # 158
+Chipotle Mexican Grill,598,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(857) 500-4066,21,1175000,598 Massachusetts Ave
+Chipotle Mexican Grill,238,Walden St,Cambridge,MA,02140,USA,Neighborhood Nine,(617) 491-0688,21,1175000,238 Walden St
+Chipotle Mexican Grill,227,Alewife Brook Pkwy,Cambridge,MA,02138,USA,Cambridge Highlands,(617) 500-9373,21,1175000,227 Alewife Brook Pkwy
+Chipotle Mexican Grill,100,Cambridgeside Pl # F21,Cambridge,MA,02141,USA,East Cambridge,(857) 500-4730,21,1175000,100 Cambridgeside Pl # F21
+Chipotle Mexican Grill,50,Broadway,Cambridge,MA,02142,USA,,(857) 500-4031,21,1175000,50 Broadway
+Chipotle Mexican Grill,1,Brattle Sq # 2,Cambridge,MA,02138,USA,,(617) 491-0677,19,1063000,1 Brattle Sq # 2
+Cho Cho's,1815,Massachusetts Ave,Cambridge,MA,02140,USA,Porter Square,(617) 868-4246,2,112000,1815 Massachusetts Ave
+Christina's Homemade Ice Cream,1255,Cambridge St,Cambridge,MA,02139,USA,Inman Square,(617) 492-7021,11,615000,1255 Cambridge St
+Christopher's,1920,Massachusetts Ave,Cambridge,MA,02140,USA,Porter Square,(617) 876-9180,50,2796000,1920 Massachusetts Ave
+Church Street Creole Cafe Inc,32,Church St,Cambridge,MA,02138,USA,Harvard Square,(302) 633-6400,6,336000,32 Church St
+Chutney's,36,Jfk St,Cambridge,MA,02138,USA,Harvard Square,(617) 491-2545,5,280000,36 Jfk St
+Cinderella's Restaurant,901,Main St,Cambridge,MA,02139,USA,Area IV,(617) 576-0280,13,727000,901 Main St
+City Girl Caffe,204,Hampshire St,Cambridge,MA,02139,USA,Inman Square,(617) 864-2809,3,168000,204 Hampshire St
+Classic Restaurant Concepts,649,Massachusetts Ave # 7,Cambridge,MA,02139,USA,Area IV,(617) 371-0901,3,168000,649 Massachusetts Ave # 7
+Clover,7,Holyoke St,Cambridge,MA,02138,USA,Harvard Square,(401) 965-2544,60,3355000,7 Holyoke St
+Clover Food Lab-Hub,1075,Cambridge St,Cambridge,MA,02139,USA,Inman Square,(617) 562-2435,6,336000,1075 Cambridge St
+Coast Cafe,233,River St,Cambridge,MA,02139,USA,Cambridgeport,(617) 354-7644,3,168000,233 River St
+Commonwealth,11,Broad Canal Way,Cambridge,MA,02142,USA,,(617) 945-7030,15,839000,11 Broad Canal Way
+Concord Avenue Cafe,294,Concord Ave,Cambridge,MA,02138,USA,West Cambridge,(617) 547-8835,2,112000,294 Concord Ave
+Conroy Commons,13,Appian Way,Cambridge,MA,02138,USA,Harvard Square,(617) 495-2453,3,168000,13 Appian Way
+Coop Cafe,1400,Massachusetts Ave,Cambridge,MA,02138,USA,Harvard Square,(617) 499-2240,6,336000,1400 Massachusetts Ave
+Copacabana Pizza & Grill Inc,2378,Massachusetts Ave,Cambridge,MA,02140,USA,North Cambridge,(617) 714-3576,6,336000,2378 Massachusetts Ave
+Cosi,290,Main St # 6,Cambridge,MA,02142,USA,Kendall Square,(617) 868-5810,40,2237000,290 Main St # 6
+Courthouse Fish Market,498,Cambridge St,Cambridge,MA,02141,USA,East Cambridge,(617) 491-1213,3,168000,498 Cambridge St
+Courtside Restaurant & Karaoke,291,Cambridge St,Cambridge,MA,02141,USA,East Cambridge,(617) 547-4374,6,336000,291 Cambridge St
+Courtyard-Boston,777,Memorial Dr,Cambridge,MA,02139,USA,Cambridgeport,(617) 492-7777,125,14258000,777 Memorial Dr
+Craigie On Main,853,Main St,Cambridge,MA,02139,USA,Area IV,(617) 497-5511,40,2237000,853 Main St
+Crazy Dough's Pizza Co,36,Jfk St # 3,Cambridge,MA,02138,USA,Harvard Square,(617) 492-4848,10,560000,36 Jfk St # 3
+Crema Cafe,27,Brattle St,Cambridge,MA,02138,USA,Harvard Square,(617) 876-2700,30,1678000,27 Brattle St
+Cuchi Cuchi,795,Main St,Cambridge,MA,02139,USA,Area IV,(617) 864-2929,30,1678000,795 Main St
+Curry N Wok,2378,Massachusetts Ave,Cambridge,MA,02140,USA,North Cambridge,(857) 259-6552,6,336000,2378 Massachusetts Ave
+Curry Thai,569,Cambridge St,Cambridge,MA,02141,USA,East Cambridge,(617) 868-6644,6,336000,569 Cambridge St
+Dado Tea,955,Massachusetts Ave # 4,Cambridge,MA,02139,USA,Mid-Cambridge,(617) 497-9061,6,336000,955 Massachusetts Ave # 4
+Dado Tea 50 Church Street,50,Church St,Cambridge,MA,02138,USA,Harvard Square,(617) 547-0950,5,280000,50 Church St
+D'Angelo Grilled Sandwiches,100,Cambridgeside Pl # F19,Cambridge,MA,02141,USA,East Cambridge,(617) 225-0707,13,727000,100 Cambridgeside Pl # F19
+Dante,40,Edwin H Land Blvd,Cambridge,MA,02142,USA,East Cambridge,(617) 497-4200,60,3355000,40 Edwin H Land Blvd
+Dante,5,Cambridge Pkwy,Cambridge,MA,02142,USA,Kendall Square,(617) 497-4200,6,336000,5 Cambridge Pkwy
+Darul Kabab Inc,2072,Massachusetts Ave,Cambridge,MA,02140,USA,Porter Square,(617) 354-4010,4,224000,2072 Massachusetts Ave
+Darwins Limited,313,Massachusetts Ave,Cambridge,MA,02139,USA,Area IV,(617) 497-1000,3,168000,313 Massachusetts Ave
+Darwin's LTD,148,Mount Auburn St,Cambridge,MA,02138,USA,West Cambridge,(617) 354-5233,18,1007000,148 Mount Auburn St
+Darwin's LTD-Cambridge St,1629,Cambridge St,Cambridge,MA,02138,USA,Mid-Cambridge,(617) 491-2999,20,1119000,1629 Cambridge St
+Davidstea,39,Jfk St,Cambridge,MA,02138,USA,Harvard Square,(617) 547-0483,5,532000,39 Jfk St
+Desfina,202,3rd St,Cambridge,MA,02141,USA,East Cambridge,(617) 868-9098,2,112000,202 3rd St
+Desi Dhaba,401,Massachusetts Ave,Cambridge,MA,02139,USA,Area IV,(617) 547-4121,5,280000,401 Massachusetts Ave
+Dimitrios Cuisine,272,Brookline St,Cambridge,MA,02139,USA,Cambridgeport,(617) 497-4037,6,336000,272 Brookline St
+Discovery Cafe,301,Binney St,Cambridge,MA,02142,USA,East Cambridge,(617) 252-0809,6,336000,301 Binney St
+Discovery Cafe,157,6th St,Cambridge,MA,02142,USA,East Cambridge,(617) 227-1626,15,839000,157 6th St
+Domino's,1033,Massachusetts Ave,Cambridge,MA,02138,USA,Riverside,(617) 577-0066,15,839000,1033 Massachusetts Ave
+Dosa Factory-Cambridge,571,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 868-3672,6,336000,571 Massachusetts Ave
+Downstairs Cafe,222,3rd St # 321,Cambridge,MA,02142,USA,,(617) 868-8100,4,224000,222 3rd St # 321
+Druid,1357,Cambridge St,Cambridge,MA,02139,USA,Inman Square,(617) 497-0965,3,168000,1357 Cambridge St
+Dumpling House,950,Massachusetts Ave # 3,Cambridge,MA,02139,USA,Riverside,(617) 661-8066,10,560000,950 Massachusetts Ave # 3
+Dunkin' Donuts,2480,Massachusetts Ave,Cambridge,MA,02140,USA,North Cambridge,(617) 491-1400,12,658000,2480 Massachusetts Ave
+Dunkin' Donuts,1001,Cambridge St,Cambridge,MA,02141,USA,Wellington - Harrington,(617) 864-8900,10,548000,1001 Cambridge St
+Dunkin' Donuts,1001,Massachusetts Ave # 1,Cambridge,MA,02138,USA,Mid-Cambridge,(617) 714-4242,12,658000,1001 Massachusetts Ave # 1
+Dunkin' Donuts,808,Memorial Dr,Cambridge,MA,02139,USA,Cambridgeport,(617) 492-0758,12,658000,808 Memorial Dr
+Dunkin' Donuts,616,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 354-8944,12,658000,616 Massachusetts Ave
+Dunkin' Donuts,517,Concord Ave,Cambridge,MA,02138,USA,Cambridge Highlands,(617) 491-8050,20,1096000,517 Concord Ave
+Dunkin' Donuts,222,Broadway,Cambridge,MA,02139,USA,Area IV,(617) 868-0259,11,603000,222 Broadway
+Dunkin' Donuts,201,Alewife Brook Pkwy,Cambridge,MA,02138,USA,Cambridge Highlands,(617) 492-9107,10,548000,201 Alewife Brook Pkwy
+Dunkin' Donuts,100,Cambridgeside Pl # 125,Cambridge,MA,02141,USA,East Cambridge,(617) 577-9042,2,172000,100 Cambridgeside Pl # 125
+Dunkin' Donuts,84,Massachusetts Ave # W20,Cambridge,MA,02139,USA,Mit,(617) 452-4089,12,658000,84 Massachusetts Ave # W20
+Dunkin' Donuts,65,Jfk St,Cambridge,MA,02138,USA,Harvard Square,(617) 354-5096,7,384000,65 Jfk St
+Dunkin' Donuts,5,3rd St,Cambridge,MA,02141,USA,East Cambridge,(617) 547-9622,15,822000,5 3rd St
+Dunkin' Donuts,5,Cambridgepark Dr # 3,Cambridge,MA,02140,USA,North Cambridge,(617) 491-6400,11,603000,5 Cambridgepark Dr # 3
+Dunkin' Donuts,1,Broadway # 2,Cambridge,MA,02142,USA,Kendall Square,(617) 945-9627,11,603000,1 Broadway # 2
+Dunkin' Donuts,1,White St,Cambridge,MA,02140,USA,Porter Square,(617) 354-8336,10,548000,1 White St
+Dwell Time,364,Broadway,Cambridge,MA,02139,USA,Mid-Cambridge,(617) 714-5536,15,839000,364 Broadway
+Eastside Bar & Grill,561,Cambridge St,Cambridge,MA,02141,USA,East Cambridge,(617) 661-3278,8,430000,561 Cambridge St
+Einstein Bros Bagels,325,Main St,Cambridge,MA,02142,USA,,(617) 714-3687,15,822000,325 Main St
+El Jefe's Taqueria,83,Mount Auburn St,Cambridge,MA,02138,USA,Harvard Square,(617) 945-1986,6,336000,83 Mount Auburn St
+Elephant Walk The-Cambridge,2067,Massachusetts Ave # 5,Cambridge,MA,02140,USA,Porter Square,(617) 492-6900,45,2516000,2067 Massachusetts Ave # 5
+Elm Street LLC,635,Cambridge St,Cambridge,MA,02141,USA,East Cambridge,(857) 285-6172,6,336000,635 Cambridge St
+Emack & Bolio's Ice Cream,23,White St,Cambridge,MA,02140,USA,Porter Square,(617) 492-1907,4,224000,23 White St
+Emma's Pizza,40,Hampshire St,Cambridge,MA,02139,USA,Area IV,(617) 864-8534,6,336000,40 Hampshire St
+Evoo,350,3rd St # 1,Cambridge,MA,02142,USA,Kendall Square,(617) 661-3866,60,3355000,350 3rd St # 1
+Falafel Corner Halal Middle,8,1/2 Eliot St,Cambridge,MA,02138,USA,Harvard Square,(617) 441-8888,5,280000,8 1/2 Eliot St
+Felipe's Taqueria,21,Brattle St,Cambridge,MA,02138,USA,Harvard Square,(617) 354-9944,24,1342000,21 Brattle St
+Field Pub,20,Prospect St,Cambridge,MA,02139,USA,Mid-Cambridge,(617) 354-7345,5,280000,20 Prospect St
+Fine Indian Cuisine,251,Cambridge St,Cambridge,MA,02141,USA,East Cambridge,(617) 492-7232,6,336000,251 Cambridge St
+Fiorella S Express Cambridge,2401,Massachusetts Ave,Cambridge,MA,02140,USA,North Cambridge,(617) 868-9900,6,336000,2401 Massachusetts Ave
+Fire & Ice,50,Church St # 101,Cambridge,MA,02138,USA,Harvard Square,(617) 547-9007,99,5535000,50 Church St # 101
+Firebrand Saints,1,Broadway,Cambridge,MA,02142,USA,Kendall Square,(617) 401-3399,30,1678000,1 Broadway
+Fishmonger,252,Huron Ave,Cambridge,MA,02138,USA,West Cambridge,(617) 661-4834,2,112000,252 Huron Ave
+Flame Asian Restaurant,1001,Massachusetts Ave,Cambridge,MA,02138,USA,Mid-Cambridge,(617) 945-0080,6,336000,1001 Massachusetts Ave
+Flat Patties,33,Brattle St,Cambridge,MA,02138,USA,Harvard Square,(617) 871-6871,6,336000,33 Brattle St
+Flat Top Johnny's,1,Kendall Sq # B2104,Cambridge,MA,02139,USA,Wellington - Harrington,(617) 494-9565,15,1007000,1 Kendall Sq # B2104
+Flour Bakery + Cafe,190,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 225-2525,25,1398000,190 Massachusetts Ave
+Foodland,2234,Massachusetts Ave,Cambridge,MA,02140,USA,North Cambridge,(617) 349-0009,2,395000,2234 Massachusetts Ave
+Forest Cafe,1682,Massachusetts Ave,Cambridge,MA,02138,USA,Neighborhood Nine,(617) 661-7810,6,336000,1682 Massachusetts Ave
+Four Burgers,704,Massachusetts Ave,Cambridge,MA,02139,USA,Riverside,(617) 441-5444,20,1119000,704 Massachusetts Ave
+Frank's Steak House,2310,Massachusetts Ave,Cambridge,MA,02140,USA,North Cambridge,(617) 661-0666,35,1957000,2310 Massachusetts Ave
+Freshens,100,Cambridgeside Pl # 138,Cambridge,MA,02141,USA,East Cambridge,(617) 577-7300,6,449000,100 Cambridgeside Pl # 138
+Friendly Toast,1,Kendall Sq # B3101,Cambridge,MA,02139,USA,Wellington - Harrington,(617) 621-1200,100,5591000,1 Kendall Sq # B3101
+Fuji At Kendall,300,3rd St,Cambridge,MA,02142,USA,East Cambridge,(617) 252-0088,6,336000,300 3rd St
+Full Moon Restaurant,344,Huron Ave,Cambridge,MA,02138,USA,West Cambridge,(617) 354-6699,31,1734000,344 Huron Ave
+Genji Express,115,Prospect St,Cambridge,MA,02139,USA,Mid-Cambridge,(617) 492-0070,6,336000,115 Prospect St
+Ginger Exchange,1287,Cambridge St,Cambridge,MA,02139,USA,Inman Square,(617) 250-8618,6,336000,1287 Cambridge St
+Go Go Curry,581,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 876-5555,6,336000,581 Massachusetts Ave
+Grafton Street Pub & Grill,1230,Massachusetts Ave,Cambridge,MA,02138,USA,Harvard Square,(617) 497-0400,120,6710000,1230 Massachusetts Ave
+Gran Gusto,90,Sherman St # A,Cambridge,MA,02140,USA,Neighborhood Nine,(617) 441-0400,5,280000,90 Sherman St # A
+Greek Corner Restaurant,2366,Massachusetts Ave,Cambridge,MA,02140,USA,North Cambridge,(617) 661-5655,4,224000,2366 Massachusetts Ave
+Green Street Grill,280,Green St,Cambridge,MA,02139,USA,Cambridgeport,(617) 876-1655,30,1678000,280 Green St
+Greenhouse Cafe,1,Oxford St,Cambridge,MA,02138,USA,Aggasiz - Harvard University,(617) 496-4790,27,1510000,1 Oxford St
+Grendels Restaurant & Bar,89,Winthrop St,Cambridge,MA,02138,USA,Harvard Square,(617) 491-1160,45,2516000,89 Winthrop St
+Grill 23 & Bar,44,Brattle St,Cambridge,MA,02138,USA,Harvard Square,(617) 542-2255,6,336000,44 Brattle St
+Guangzhou Restaurant,1220,Cambridge St,Cambridge,MA,02139,USA,Inman Square,(617) 547-6368,2,112000,1220 Cambridge St
+Gyu-KAKU,16,Eliot St # 2,Cambridge,MA,02138,USA,Harvard Square,(310) 532-1137,33,1845000,16 Eliot St # 2
+Half-Shell,1760,Massachusetts Ave,Cambridge,MA,02140,USA,Neighborhood Nine,(617) 876-9596,3,168000,1760 Massachusetts Ave
+Hana Sushi,2372,Massachusetts Ave,Cambridge,MA,02140,USA,North Cambridge,(617) 868-2121,4,224000,2372 Massachusetts Ave
+Handi Indian Restaurant,1001,Massachusetts Ave,Cambridge,MA,02138,USA,Mid-Cambridge,(617) 441-4034,3,168000,1001 Massachusetts Ave
+Harvard Chinese,36,Oxford St,Cambridge,MA,02138,USA,Aggasiz - Harvard University,(617) 493-7135,80,0,36 Oxford St
+Harvard House Of Pizza,1706,Massachusetts Ave,Cambridge,MA,02138,USA,Neighborhood Nine,(617) 864-8090,3,168000,1706 Massachusetts Ave
+Harvard Nw Labs Office,52,Oxford St,Cambridge,MA,02138,USA,Aggasiz - Harvard University,(617) 441-7819,6,336000,52 Oxford St
+Harvard University Diving Svc,12,Quincy St,Cambridge,MA,02138,USA,Mid-Cambridge,(617) 495-3238,2,192000,12 Quincy St
+Harvest,44,Brattle St # 3,Cambridge,MA,02138,USA,Harvard Square,(617) 868-2255,75,4194000,44 Brattle St # 3
+Harvot Lotus Kui Inc,1712,Massachusetts Ave,Cambridge,MA,02138,USA,Neighborhood Nine,(617) 547-6565,30,1678000,1712 Massachusetts Ave
+Hearthstone Partners,290,Main St,Cambridge,MA,02142,USA,Kendall Square,(617) 547-1745,6,336000,290 Main St
+Helmand Restaurant,143,1st St,Cambridge,MA,02142,USA,East Cambridge,(617) 492-4646,20,1119000,143 1st St
+Henrietta's Table,1,Bennett St,Cambridge,MA,02138,USA,Harvard Square,(617) 661-5005,60,3355000,1 Bennett St
+Herbert & Kong,777,Cambridge St,Cambridge,MA,02141,USA,Wellington - Harrington,(857) 242-4106,6,336000,777 Cambridge St
+Herbert & Kong,777,Concord Ave,Cambridge,MA,02138,USA,Cambridge Highlands,(857) 242-4910,6,336000,777 Concord Ave
+Highway 61 Enterprises Inc,67,Porter Rd,Cambridge,MA,02140,USA,Porter Square,(617) 547-1722,14,783000,67 Porter Rd
+Hi-Rise Bread Co,208,Concord Ave,Cambridge,MA,02138,USA,Huron Village,(617) 876-8766,40,2237000,208 Concord Ave
+Hi-Rise Cafe,1663,Massachusetts Ave,Cambridge,MA,02138,USA,Aggasiz - Harvard University,(617) 492-3003,6,336000,1663 Massachusetts Ave
+Holiday Inn Exp Hotel-Suites,250,Monsignor Obrien Hwy,Cambridge,MA,02141,USA,East Cambridge,(617) 577-7600,30,3422000,250 Monsignor Obrien Hwy
+Hong Kong Restaurant,1238,Massachusetts Ave,Cambridge,MA,02138,USA,Harvard Square,(617) 864-5311,6,336000,1238 Massachusetts Ave
+Hops'n Scotch,1248,Cambridge St,Cambridge,MA,02139,USA,Inman Square,(857) 242-4980,6,336000,1248 Cambridge St
+Hotel Marlowe,25,Edwin H Land Blvd,Cambridge,MA,02141,USA,East Cambridge,(617) 868-8000,12,1369000,25 Edwin H Land Blvd
+House Of Chang,282,Concord Ave,Cambridge,MA,02138,USA,West Cambridge,(617) 547-9888,6,336000,282 Concord Ave
+Hungry Fish Media LLC,700,Technology Sq # 202,Cambridge,MA,02139,USA,Kendall Square,(617) 229-5670,6,336000,700 Technology Sq # 202
+Hungry Mother,1,Kendall Sq # B3001,Cambridge,MA,02139,USA,Wellington - Harrington,(617) 499-0090,30,1678000,1 Kendall Sq # B3001
+Hyatt Regency-Cambridge,575,Memorial Dr,Cambridge,MA,02139,USA,Mit,(617) 492-1234,275,31367000,575 Memorial Dr
+IHOP Restaurant,16,Eliot St # 18,Cambridge,MA,02138,USA,Harvard Square,(617) 354-0999,10,752000,16 Eliot St # 18
+India Castle Restaurant & Bar,928,Massachusetts Ave,Cambridge,MA,02139,USA,Riverside,(617) 864-8100,6,336000,928 Massachusetts Ave
+India Pavilion,17,Central Sq,Cambridge,MA,02139,USA,Cambridgeport,(617) 547-7463,3,168000,17 Central Sq
+Ittyo Restaurant,1815,Massachusetts Ave # 3,Cambridge,MA,02140,USA,Porter Square,(617) 354-5944,4,224000,1815 Massachusetts Ave # 3
+Izzy's Restaurant & Sub Shop,169,Harvard St,Cambridge,MA,02139,USA,Area IV,(617) 661-3910,5,280000,169 Harvard St
+J P Licks Ice Cream,1312,Massachusetts Ave,Cambridge,MA,02138,USA,Harvard Square,(617) 492-1001,15,839000,1312 Massachusetts Ave
+Jasper Whites Summer S,149,Alewife Brook Pkwy,Cambridge,MA,02140,USA,North Cambridge,(617) 520-9500,6,336000,149 Alewife Brook Pkwy
+Joe Sent Maine,2388,Massachusetts Ave,Cambridge,MA,02140,USA,North Cambridge,(617) 492-1116,16,895000,2388 Massachusetts Ave
+John Harvard's Brewery & Ale,33,Dunster St,Cambridge,MA,02138,USA,Harvard Square,(617) 868-3585,75,4194000,33 Dunster St
+Jose's Mexican Restaurant,131,Sherman St,Cambridge,MA,02140,USA,Neighborhood Nine,(617) 354-0335,10,560000,131 Sherman St
+Jumptap,245,1st St,Cambridge,MA,02142,USA,Kendall Square,(617) 301-4550,6,336000,245 1st St
+KAYA Restaurant,1924,Massachusetts Ave,Cambridge,MA,02140,USA,Porter Square,(617) 497-5656,10,560000,1924 Massachusetts Ave
+Kendall Hotel,350,Main St,Cambridge,MA,02142,USA,Kendall Square,(617) 577-1300,29,3308000,350 Main St
+Kendall House Of Pizza,201,3rd St,Cambridge,MA,02141,USA,East Cambridge,(617) 547-1790,3,168000,201 3rd St
+Kendall Kitchen,201,Broadway # 25,Cambridge,MA,02139,USA,Area IV,(617) 225-7704,6,336000,201 Broadway # 25
+Kendall Market & Deli,290,Main St # 5,Cambridge,MA,02142,USA,Kendall Square,(617) 661-7300,1,198000,290 Main St # 5
+KFC,2071,Massachusetts Ave,Cambridge,MA,02140,USA,,(617) 868-1498,20,1119000,2071 Massachusetts Ave
+KIKA Tapas,350,3rd St # 100,Cambridge,MA,02142,USA,Kendall Square,(617) 245-6030,10,560000,350 3rd St # 100
+Kolbeh Of Kabob,1500,Cambridge St,Cambridge,MA,02139,USA,Mid-Cambridge,(617) 876-9400,3,168000,1500 Cambridge St
+Koreana,158,Prospect St,Cambridge,MA,02139,USA,Area IV,(617) 576-8661,20,1119000,158 Prospect St
+Kotobuki Ya Inc,1815,Massachusetts Ave # M2,Cambridge,MA,02140,USA,Porter Square,(617) 492-4655,12,671000,1815 Massachusetts Ave # M2
+L A Burdick Handmade Chclts,52,Brattle St,Cambridge,MA,02138,USA,Harvard Square,(617) 491-4340,20,27963000,52 Brattle St
+L C Inc,4,Brattle St # 210,Cambridge,MA,02138,USA,Harvard Square,(617) 876-2890,2,112000,4 Brattle St # 210
+LA Verde's Market Mit,84,Massachusetts Ave,Cambridge,MA,02139,USA,Mit,(617) 621-0733,35,6907000,84 Massachusetts Ave
+Lady Fingers Catering-Event,1,Earhart St # 305,Cambridge,MA,02141,USA,East Cambridge,(617) 216-9745,1,56000,1 Earhart St # 305
+Lanes & Games,195,Concord Tpke,Cambridge,MA,02140,USA,East Arlington,(617) 876-5533,51,2685000,195 Concord Tpke
+Legal Sea Foods,20,University Rd,Cambridge,MA,02138,USA,Harvard Square,(617) 491-9400,50,2796000,20 University Rd
+Legal Sea Foods,5,Cambridge Ctr,Cambridge,MA,02142,USA,Kendall Square,(617) 864-3400,120,6710000,5 Cambridge Ctr
+Le's,36,Jfk St,Cambridge,MA,02138,USA,Harvard Square,(617) 864-4100,6,336000,36 Jfk St
+Le's Restaurant,36,Jfk St,Cambridge,MA,02138,USA,Harvard Square,(617) 864-4100,10,560000,36 Jfk St
+Le's Restaurant,35,Dunster St,Cambridge,MA,02138,USA,,(617) 864-4100,20,1119000,35 Dunster St
+Life Alive Urban Oasis-Organic,765,Massachusetts Ave,Cambridge,MA,02139,USA,Mid-Cambridge,(617) 354-5433,6,336000,765 Massachusetts Ave
+Lingo,8,Museum Way,Cambridge,MA,02141,USA,East Cambridge,(617) 619-2409,6,336000,8 Museum Way
+Lingo Restaurant,15,Monsignor Obrien Hwy,Cambridge,MA,02141,USA,,(617) 619-2400,6,336000,15 Monsignor Obrien Hwy
+Lingo Restaurant,1,Education St,Cambridge,MA,02141,USA,East Cambridge,(617) 619-2400,15,839000,1 Education St
+Liquiteria Mass Ave LLC,1440,Massachusetts Ave,Cambridge,MA,02138,USA,Harvard Square,(617) 588-9955,4,588000,1440 Massachusetts Ave
+Little Donkey,505,Massachusetts Ave,Cambridge,MA,02139,USA,Area IV,(617) 945-1008,6,336000,505 Massachusetts Ave
+Lizard Lounge,1667,Massachusetts Ave,Cambridge,MA,02138,USA,Aggasiz - Harvard University,(617) 547-0759,8,430000,1667 Massachusetts Ave
+Lizzy's Homemade Ice Cream,29,Church St,Cambridge,MA,02138,USA,,(617) 354-2911,7,392000,29 Church St
+Lone Star Taco Bar,635,Cambridge St,Cambridge,MA,02141,USA,East Cambridge,(857) 285-6179,6,336000,635 Cambridge St
+Lord Hobo,92,Hampshire St,Cambridge,MA,02139,USA,Area IV,(617) 250-8454,6,336000,92 Hampshire St
+Lou's Place,208,Cambridge St,Cambridge,MA,02141,USA,East Cambridge,(617) 621-1774,1,68000,208 Cambridge St
+Loyal Nine,660,Cambridge St,Cambridge,MA,02141,USA,East Cambridge,(617) 945-2576,20,1119000,660 Cambridge St
+Maharaja,57,Jfk St # 1,Cambridge,MA,02138,USA,Harvard Square,(617) 547-2757,6,336000,57 Jfk St # 1
+Mall Discount Liquors & Wines,202,Alewife Brook Pkwy,Cambridge,MA,02138,USA,Cambridge Highlands,(617) 864-7171,5,1399000,202 Alewife Brook Pkwy
+Mamagoo's Pizza & Sub Shop,6,Concord Ln,Cambridge,MA,02138,USA,Cambridge Highlands,(617) 354-9139,5,280000,6 Concord Ln
+Mariposa Bakery,424,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 876-6500,11,615000,424 Massachusetts Ave
+Marriott-Boston Cambridge,50,Broadway,Cambridge,MA,02142,USA,,(617) 494-6600,250,28515000,50 Broadway
+Mary Chung Restaurant,464,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 864-1991,10,560000,464 Massachusetts Ave
+Mass Chicken,736,Massachusetts Ave,Cambridge,MA,02139,USA,Riverside,(617) 234-4450,5,280000,736 Massachusetts Ave
+Massachusetts Avenue Rstrnt,906,Massachusetts Ave,Cambridge,MA,02139,USA,Riverside,(617) 864-5301,6,336000,906 Massachusetts Ave
+Mc Donald's,463,Massachusetts Ave,Cambridge,MA,02139,USA,Area IV,(617) 497-3926,31,1734000,463 Massachusetts Ave
+Mc Donald's,264,Monsignor Obrien Hwy,Cambridge,MA,02141,USA,East Cambridge,(617) 666-9666,35,1957000,264 Monsignor Obrien Hwy
+Mc Donald's,186,Alewife Brook Pkwy,Cambridge,MA,02138,USA,Cambridge Highlands,(617) 876-6509,28,1566000,186 Alewife Brook Pkwy
+Mc Donald's Corporate Office,200,Monsignor Obrien Hwy,Cambridge,MA,02141,USA,East Cambridge,(617) 354-9027,7,392000,200 Monsignor Obrien Hwy
+Mccabe's On Mass,2046,Massachusetts Ave,Cambridge,MA,02140,USA,Porter Square,(617) 945-7115,6,336000,2046 Massachusetts Ave
+Mead Hall,90,Broadway,Cambridge,MA,02142,USA,,(617) 714-3879,50,2796000,90 Broadway
+Mexicali Burrito Cabana,350,Kendall St,Cambridge,MA,02142,USA,Kendall Square,(617) 225-2777,6,336000,350 Kendall St
+Mexicali Burrito Co,500,Technology Sq,Cambridge,MA,02139,USA,Kendall Square,(617) 225-2777,3,168000,500 Technology Sq
+Middle East Restaurant,480,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 864-3278,30,1678000,480 Massachusetts Ave
+Middle East Rstrnt & Nightclub,472,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 864-3278,6,336000,472 Massachusetts Ave
+Middlesex Lounge,315,Massachusetts Ave,Cambridge,MA,02139,USA,Area IV,(617) 868-6739,6,336000,315 Massachusetts Ave
+Midwest Grill-Cambridge,1124,Cambridge St,Cambridge,MA,02139,USA,Inman Square,(617) 354-7536,20,1119000,1124 Cambridge St
+Milk & Two Sugars,125,Cambridgepark Dr,Cambridge,MA,02140,USA,North Cambridge,(617) 826-9424,6,0,125 Cambridgepark Dr
+Miracle Of Science Bar & Grill,321,Massachusetts Ave,Cambridge,MA,02139,USA,Area IV,(617) 868-2866,20,1119000,321 Massachusetts Ave
+MIT Faculty Club,50,Memorial Dr,Cambridge,MA,02142,USA,Kendall Square,(617) 253-4896,28,1566000,50 Memorial Dr
+Mix-It,1678,Massachusetts Ave,Cambridge,MA,02138,USA,Neighborhood Nine,(617) 547-0212,6,336000,1678 Massachusetts Ave
+Moksa,450,Massachusetts Ave # 1,Cambridge,MA,02139,USA,Cambridgeport,(617) 661-4900,6,336000,450 Massachusetts Ave # 1
+Mona Lisa Rstrnt & Pizzeria,1625,Cambridge St,Cambridge,MA,02138,USA,Mid-Cambridge,(617) 491-1888,4,224000,1625 Cambridge St
+Moody's Falafel Palace,25,Central Sq,Cambridge,MA,02139,USA,Cambridgeport,(617) 864-0827,1,56000,25 Central Sq
+Mr Bartley's Burger Cottage,1246,Massachusetts Ave,Cambridge,MA,02138,USA,Harvard Square,(617) 354-6559,20,1119000,1246 Massachusetts Ave
+Multicultural Arts Ctr,41,2nd St,Cambridge,MA,02141,USA,East Cambridge,(617) 577-1400,4,0,41 2nd St
+Muqueca,1093,Cambridge St,Cambridge,MA,02139,USA,Inman Square,(617) 354-3296,10,336000,1093 Cambridge St
+Muqueca Restaurant,1008,Cambridge St,Cambridge,MA,02141,USA,,(617) 354-3296,3,168000,1008 Cambridge St
+Museum Market,12,Museum Way,Cambridge,MA,02141,USA,East Cambridge,(617) 227-6668,3,168000,12 Museum Way
+Naco Taco,297,Massachusetts Ave,Cambridge,MA,02139,USA,Area IV,(617) 945-1548,6,336000,297 Massachusetts Ave
+Namaste,277,Western Ave,Cambridge,MA,02139,USA,,(617) 945-9597,6,336000,277 Western Ave
+New Brand Sebatains LLC,7,Cambridge Ctr,Cambridge,MA,02142,USA,Kendall Square,(617) 758-0112,25,1398000,7 Cambridge Ctr
+Newtowne Grille Food & Spirits,1945,Massachusetts Ave,Cambridge,MA,02140,USA,Porter Square,(617) 661-0706,5,280000,1945 Massachusetts Ave
+Nimatwood's Tavern,877,Cambridge St,Cambridge,MA,02141,USA,Wellington - Harrington,(617) 864-2792,15,839000,877 Cambridge St
+Noodle Stix Chinese Restaurant,11,Belmont St,Cambridge,MA,02138,USA,East Watertown,(617) 868-1800,2,112000,11 Belmont St
+Nubar,16,Garden St,Cambridge,MA,02138,USA,West Cambridge,(617) 234-1365,10,560000,16 Garden St
+Oak Ford Inc,280,Green St,Cambridge,MA,02139,USA,Cambridgeport,(617) 876-1655,6,336000,280 Green St
+Often Bbq,210,Bent St,Cambridge,MA,02141,USA,East Cambridge,(617) 577-7427,7,392000,210 Bent St
+Oggi Gourmet,30,Dunster St,Cambridge,MA,02138,USA,Harvard Square,(617) 492-6444,12,671000,30 Dunster St
+Ole Mexican Grille,11,Springfield St,Cambridge,MA,02139,USA,Inman Square,(617) 492-4495,30,1678000,11 Springfield St
+Oleana,134,Hampshire St,Cambridge,MA,02139,USA,Inman Square,(617) 661-0505,19,1063000,134 Hampshire St
+Olecito,12,Springfield St,Cambridge,MA,02139,USA,Inman Square,(617) 876-1374,10,560000,12 Springfield St
+Olive Cafe,43,Gore St,Cambridge,MA,02141,USA,East Cambridge,(617) 876-4189,2,112000,43 Gore St
+Olivraquel Inc,50,Hampshire St,Cambridge,MA,02139,USA,Area IV,(617) 621-6991,6,336000,50 Hampshire St
+One World Cuisine,552,Massachusetts Ave # 204,Cambridge,MA,02139,USA,Cambridgeport,(617) 262-4770,51,2852000,552 Massachusetts Ave # 204
+Orinoco,56,Jfk St # 5,Cambridge,MA,02138,USA,Harvard Square,(617) 354-6900,6,336000,56 Jfk St # 5
+Otto,1432,Massachusetts Ave,Cambridge,MA,02138,USA,Harvard Square,(617) 873-0888,3,168000,1432 Massachusetts Ave
+Oxford Spa,102,Oxford St,Cambridge,MA,02138,USA,Aggasiz - Harvard University,(617) 661-6988,3,168000,102 Oxford St
+P F Chang's China Bistro,100,Cambridgeside Pl # C101,Cambridge,MA,02141,USA,East Cambridge,(617) 250-9965,60,3355000,100 Cambridgeside Pl # C101
+Pacific St Cafe,70,Pacific St,Cambridge,MA,02139,USA,Cambridgeport,(617) 494-1414,6,336000,70 Pacific St
+Paddy's Lunch,260,Walden St,Cambridge,MA,02138,USA,Neighborhood Nine,(617) 547-8739,4,224000,260 Walden St
+Panera Bread,1288,Massachusetts Ave,Cambridge,MA,02138,USA,Harvard Square,(617) 868-0651,35,1957000,1288 Massachusetts Ave
+Panera Bread,1280,Massachusetts Ave,Cambridge,MA,02138,USA,Harvard Square,Not Available,35,1957000,1280 Massachusetts Ave
+Panera Bread,174,Alewife Brook Pkwy,Cambridge,MA,02138,USA,Cambridge Highlands,(617) 491-0890,35,1957000,174 Alewife Brook Pkwy
+Panera Bread,5,White St,Cambridge,MA,02140,USA,Porter Square,(617) 547-0816,35,1957000,5 White St
+Panini Bakery,180,Franklin St,Cambridge,MA,02139,USA,Cambridgeport,(781) 899-3817,6,336000,180 Franklin St
+Papa Gino's,179,3rd St,Cambridge,MA,02141,USA,East Cambridge,Not Available,20,1119000,179 3rd St
+Paradise,180,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 868-3000,8,430000,180 Massachusetts Ave
+Park Restaurant & Bar,59,Jfk St,Cambridge,MA,02138,USA,Harvard Square,(617) 491-9851,6,336000,59 Jfk St
+Passage To India,1900,Massachusetts Ave,Cambridge,MA,02140,USA,Porter Square,(617) 497-6113,6,336000,1900 Massachusetts Ave
+Patty Chen's Dumpling Room,907,Main St,Cambridge,MA,02139,USA,Area IV,(617) 491-6616,6,336000,907 Main St
+Pazzo,402,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,Not Available,6,0,402 Massachusetts Ave
+Peet's Coffee & Tea,100,Mount Auburn St,Cambridge,MA,02138,USA,Harvard Square,(617) 492-1844,18,1007000,100 Mount Auburn St
+People Republic,878,Massachusetts Ave,Cambridge,MA,02139,USA,Riverside,(617) 491-6969,10,560000,878 Massachusetts Ave
+Pepper Sky,20,Pearl St,Cambridge,MA,02139,USA,Cambridgeport,(617) 492-2541,6,336000,20 Pearl St
+Petsi Pies,594,Cambridge St,Cambridge,MA,02141,USA,East Cambridge,(617) 945-5278,5,274000,594 Cambridge St
+Petsi Pies,31,Putnam Ave,Cambridge,MA,02139,USA,Riverside,(617) 499-0801,5,280000,31 Putnam Ave
+Pho House,1790,Massachusetts Ave,Cambridge,MA,02140,USA,Neighborhood Nine,(617) 547-8888,6,336000,1790 Massachusetts Ave
+Phoenix Landing,512,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 576-6260,10,560000,512 Massachusetts Ave
+Picante Mexican Grill II Inc,735,Massachusetts Ave,Cambridge,MA,02139,USA,Mid-Cambridge,(617) 576-6744,20,1119000,735 Massachusetts Ave
+Pinkberry,1380,Massachusetts Ave,Cambridge,MA,02138,USA,Harvard Square,(617) 547-0537,14,1048000,1380 Massachusetts Ave
+Pinocchio's Pizza & Subs,74,Winthrop St,Cambridge,MA,02138,USA,Harvard Square,(617) 876-4897,7,392000,74 Winthrop St
+Pizza Days Inc,10,Ware St,Cambridge,MA,02138,USA,Mid-Cambridge,(617) 868-7992,3,168000,10 Ware St
+Pizza Rev,100,Cambridgeside Pl # F23,Cambridge,MA,02141,USA,East Cambridge,(857) 829-3135,3,0,100 Cambridgeside Pl # F23
+Plaza Catering,157,6th St # 1,Cambridge,MA,02142,USA,,(617) 227-1333,6,336000,157 6th St # 1
+Plaza Deli Inc,320,Bent St,Cambridge,MA,02141,USA,East Cambridge,(617) 225-7829,3,168000,320 Bent St
+Plaza Deli Inc,157,6th St # 1,Cambridge,MA,02142,USA,,(617) 227-1333,10,560000,157 6th St # 1
+Plough & Stars,912,Massachusetts Ave,Cambridge,MA,02139,USA,Riverside,(617) 576-0032,8,448000,912 Massachusetts Ave
+Port Cafe,286,Windsor St # 1,Cambridge,MA,02139,USA,Area IV,(617) 780-2250,6,336000,286 Windsor St # 1
+Portugalia,723,Cambridge St,Cambridge,MA,02141,USA,Wellington - Harrington,(617) 491-5373,7,392000,723 Cambridge St
+Potbelly Sandwich Shop,1,Porter Cir # 4,Cambridge,MA,02140,USA,Porter Square,(617) 936-2285,20,1119000,1 Porter Cir # 4
+Primo Pizza & Roast Beef,783,Main St,Cambridge,MA,02139,USA,Area IV,(617) 945-0878,3,168000,783 Main St
+Punjabi Dhaba,225,Hampshire St,Cambridge,MA,02139,USA,Inman Square,(617) 547-8272,10,560000,225 Hampshire St
+Pupu Hotpot Chinese Restaurant,907,Main St,Cambridge,MA,02139,USA,Area IV,(617) 491-6616,5,280000,907 Main St
+Qafe,58,Plympton St,Cambridge,MA,02138,USA,Harvard Square,(323) 919-9360,4,224000,58 Plympton St
+Qdoba Mexican Eats,1280,Massachusetts Ave,Cambridge,MA,02138,USA,Harvard Square,(617) 871-1136,11,615000,1280 Massachusetts Ave
+Qdoba Mexican Eats,35,White St,Cambridge,MA,02140,USA,Porter Square,Not Available,15,839000,35 White St
+Qingdao Garden Restaurant,2382,Massachusetts Ave,Cambridge,MA,02140,USA,North Cambridge,(617) 492-7540,3,168000,2382 Massachusetts Ave
+Quick Bite,5,Cambridgepark Dr # 6,Cambridge,MA,02140,USA,North Cambridge,(617) 492-0906,1,56000,5 Cambridgepark Dr # 6
+Rangzen Tibet Restaurant,24,Pearl St,Cambridge,MA,02139,USA,Cambridgeport,(617) 354-8881,6,336000,24 Pearl St
+Rebecca's Cafe,290,Main St # 4,Cambridge,MA,02142,USA,Kendall Square,(617) 494-6688,30,1678000,290 Main St # 4
+Red House Restaurant,98,Winthrop St,Cambridge,MA,02138,USA,Harvard Square,(617) 576-0605,39,2181000,98 Winthrop St
+Regattabar,1,Bennett St,Cambridge,MA,02138,USA,Harvard Square,(617) 661-5000,1,73000,1 Bennett St
+Restaurant Associates,136,Irving St,Cambridge,MA,02138,USA,Aggasiz - Harvard University,(617) 619-2400,6,336000,136 Irving St
+Riley To The Rescue-Catering,475,Huron Ave,Cambridge,MA,02138,USA,West Cambridge,(617) 354-1650,2,282000,475 Huron Ave
+Riverside Pizza & Seafoods,305,River St,Cambridge,MA,02139,USA,Cambridgeport,(617) 354-8800,4,224000,305 River St
+Rivertech Cafe,840,Memorial Dr # 1,Cambridge,MA,02139,USA,Riverside,(617) 876-8922,1,56000,840 Memorial Dr # 1
+Rod Dee Thai Cuisine,1906,Massachusetts Ave,Cambridge,MA,02140,USA,Porter Square,(617) 374-9252,6,336000,1906 Massachusetts Ave
+Route Sixty Six Cafe,251,Cambridge St,Cambridge,MA,02141,USA,East Cambridge,(617) 492-7232,2,112000,251 Cambridge St
+Royal East Restaurant,792,Main St,Cambridge,MA,02139,USA,Area IV,(617) 661-1660,17,951000,792 Main St
+Royal Punjab,251,Cambridge St,Cambridge,MA,02141,USA,East Cambridge,(617) 492-7232,6,336000,251 Cambridge St
+Royal Sonesta Hotel,40,Edwin H Land Blvd,Cambridge,MA,02142,USA,East Cambridge,(617) 806-4200,253,28858000,40 Edwin H Land Blvd
+Russell House Tavern,14,Jfk St,Cambridge,MA,02138,USA,Harvard Square,(617) 500-3055,15,839000,14 Jfk St
+S & S Restaurant,1334,Cambridge St,Cambridge,MA,02139,USA,Inman Square,(617) 354-0777,100,5591000,1334 Cambridge St
+Sakura Japan,100,Cambridgeside Pl,Cambridge,MA,02141,USA,East Cambridge,(617) 252-0882,11,615000,100 Cambridgeside Pl
+Saladworks,100,Cambridgeside Pl # 1,Cambridge,MA,02141,USA,East Cambridge,(617) 374-8888,5,280000,100 Cambridgeside Pl # 1
+Salts Restaurant,798,Main St,Cambridge,MA,02139,USA,Area IV,(617) 876-8444,10,560000,798 Main St
+Sanktouka,1,Bow St # 4,Cambridge,MA,02138,USA,Harvard Square,(617) 945-1392,6,336000,1 Bow St # 4
+Sapporo Ramen,1815,Massachusetts Ave # M5,Cambridge,MA,02140,USA,Porter Square,(617) 876-4805,2,112000,1815 Massachusetts Ave # M5
+Sarku Japan Sushi Bar,100,Cambridgeside Pl # K6,Cambridge,MA,02141,USA,East Cambridge,(617) 577-7658,6,336000,100 Cambridgeside Pl # K6
+Sepal,100,Cambridgeside Pl # F25,Cambridge,MA,02141,USA,,(617) 621-8666,6,336000,100 Cambridgeside Pl # F25
+Shabu & Mein,148,1st St,Cambridge,MA,02142,USA,East Cambridge,(617) 577-7888,25,1398000,148 1st St
+Shabu At Kendall,1,Rogers St,Cambridge,MA,02142,USA,East Cambridge,(617) 869-3222,6,336000,1 Rogers St
+Shabu Ya,57,Jfk St,Cambridge,MA,02138,USA,Harvard Square,(617) 864-6868,15,839000,57 Jfk St
+Shack Foods,125,Cambridgepark Dr,Cambridge,MA,02140,USA,North Cambridge,(617) 520-9501,6,336000,125 Cambridgepark Dr
+Shake Shack,92,Winthrop St,Cambridge,MA,02138,USA,Harvard Square,(617) 758-8495,6,336000,92 Winthrop St
+Shay's Pub & Wine Bar,58,Jfk St,Cambridge,MA,02138,USA,Harvard Square,(617) 864-9161,17,951000,58 Jfk St
+Shepard,1,Shepard St,Cambridge,MA,02138,USA,Neighborhood Nine,(617) 714-5295,6,336000,1 Shepard St
+Sheraton Commander Hotel,16,Garden St,Cambridge,MA,02138,USA,West Cambridge,(617) 547-4800,110,12547000,16 Garden St
+Shilimar Of India Restaurant,546,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 547-9280,6,336000,546 Massachusetts Ave
+Shilla Restaurant,57,Jfk St # 9,Cambridge,MA,02138,USA,Harvard Square,(617) 547-7971,8,448000,57 Jfk St # 9
+Similans,145,1st St,Cambridge,MA,02142,USA,East Cambridge,(617) 982-0678,6,336000,145 1st St
+Simons Coffee House,1736,Massachusetts Ave,Cambridge,MA,02138,USA,Neighborhood Nine,(617) 497-7766,6,336000,1736 Massachusetts Ave
+Sinclair,52,Church St,Cambridge,MA,02138,USA,Harvard Square,(617) 547-5200,6,336000,52 Church St
+Singa Bella Cafe,2401,Massachusetts Ave,Cambridge,MA,02140,USA,North Cambridge,(617) 547-1002,3,168000,2401 Massachusetts Ave
+Six Kids Inc,1,Kendall Sq # B1101,Cambridge,MA,02139,USA,Wellington - Harrington,(617) 225-0888,6,336000,1 Kendall Sq # B1101
+Skampa,424,Cambridge St,Cambridge,MA,02141,USA,East Cambridge,(617) 354-0009,1,56000,424 Cambridge St
+Sodexo,500,Kendall St,Cambridge,MA,02142,USA,Kendall Square,(617) 252-7570,6,336000,500 Kendall St
+Sodexo,142,Memorial Dr,Cambridge,MA,02142,USA,Kendall Square,(617) 742-1460,6,336000,142 Memorial Dr
+Sofra Bakery & Cafe,1,Belmont St,Cambridge,MA,02138,USA,East Watertown,(617) 661-3161,30,1678000,1 Belmont St
+Sola,350,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 576-7652,8,448000,350 Massachusetts Ave
+Sonesta Hotel,5,Cambridge Pkwy,Cambridge,MA,02142,USA,East Cambridge,(617) 806-4200,300,34218000,5 Cambridge Pkwy
+Souper Roll Up Cafe,726,Cambridge St,Cambridge,MA,02141,USA,Wellington - Harrington,(617) 354-5810,2,112000,726 Cambridge St
+Spice & Rice,1933,Massachusetts Ave,Cambridge,MA,02140,USA,Porter Square,(617) 864-4500,10,560000,1933 Massachusetts Ave
+Spice Thai Cuisine,24,Holyoke St,Cambridge,MA,02138,USA,Harvard Square,(617) 868-9560,3,168000,24 Holyoke St
+Squeaky Beaker Cafe,675,W Kendall St,Cambridge,MA,02142,USA,Kendall Square,(617) 679-0108,6,336000,675 W Kendall St
+Starbucks,1662,Massachusetts Ave,Cambridge,MA,02138,USA,Neighborhood Nine,(617) 491-0442,30,1678000,1662 Massachusetts Ave
+Starbucks,1380,Massachusetts Ave,Cambridge,MA,02138,USA,Harvard Square,(617) 354-3726,15,839000,1380 Massachusetts Ave
+Starbucks,750,Memorial Dr,Cambridge,MA,02139,USA,Cambridgeport,(617) 661-5817,12,671000,750 Memorial Dr
+Starbucks,655,Massachusetts Ave,Cambridge,MA,02139,USA,Area IV,(617) 354-5471,18,1007000,655 Massachusetts Ave
+Starbucks,468,Broadway # 1,Cambridge,MA,02138,USA,Mid-Cambridge,(617) 491-9911,12,671000,468 Broadway # 1
+Starbucks,220,Alewife Brook Pkwy,Cambridge,MA,02138,USA,Cambridge Highlands,(617) 876-1070,10,560000,220 Alewife Brook Pkwy
+Starbucks,114,Bishop Richard Allen Dr,Cambridge,MA,02139,USA,Area IV,(617) 354-0940,15,839000,114 Bishop Richard Allen Dr
+Starbucks,100,Cambridgeside Pl # E108,Cambridge,MA,02141,USA,,(617) 621-9740,10,560000,100 Cambridgeside Pl # E108
+Starbucks,50,Broadway,Cambridge,MA,02142,USA,,(617) 494-6600,15,839000,50 Broadway
+Starbucks,36,Jfk St # 10,Cambridge,MA,02138,USA,Harvard Square,(617) 492-4881,15,839000,36 Jfk St # 10
+Starbucks,31,Church St,Cambridge,MA,02138,USA,Harvard Square,(617) 492-7870,17,951000,31 Church St
+Starbucks,6,Cambridge Ctr,Cambridge,MA,02142,USA,Kendall Square,(617) 577-7511,20,1119000,6 Cambridge Ctr
+State Park,1,Kendall Sq # B3001,Cambridge,MA,02139,USA,Wellington - Harrington,(617) 848-4355,10,678000,1 Kendall Sq # B3001
+Stefani Pizzeria,263,Brookline St,Cambridge,MA,02139,USA,Cambridgeport,(617) 547-4588,3,168000,263 Brookline St
+Stone Hearth Pizza-Cambridge,1782,Massachusetts Ave,Cambridge,MA,02140,USA,Neighborhood Nine,(617) 492-1111,10,560000,1782 Massachusetts Ave
+SUBWAY,1105,Massachusetts Ave # 1,Cambridge,MA,02138,USA,Mid-Cambridge,(617) 492-5351,3,168000,1105 Massachusetts Ave # 1
+SUBWAY,77,Massachusetts Ave # W20-500,Cambridge,MA,02139,USA,Mit,(617) 324-7827,8,448000,77 Massachusetts Ave # W20-500
+SUBWAY,36,Jfk St # 1,Cambridge,MA,02138,USA,Harvard Square,(617) 441-0011,8,448000,36 Jfk St # 1
+Sugar & Spice,1933,Massachusetts Ave,Cambridge,MA,02140,USA,Porter Square,(617) 868-4200,6,336000,1933 Massachusetts Ave
+Summer Shack Cambridge,149,Alewife Brook Pkwy,Cambridge,MA,02140,USA,North Cambridge,(617) 520-9500,50,2796000,149 Alewife Brook Pkwy
+Sunset Cafe,851,Cambridge St,Cambridge,MA,02141,USA,Wellington - Harrington,(617) 547-2938,13,727000,851 Cambridge St
+Super Fusion,1759,Massachusetts Ave,Cambridge,MA,02140,USA,Aggasiz - Harvard University,(617) 864-6299,6,336000,1759 Massachusetts Ave
+Surya Indian Kitchen N Ctrng,114,Magazine St,Cambridge,MA,02139,USA,Cambridgeport,(617) 945-5489,2,112000,114 Magazine St
+Sweet Touch Cafe,241,Cambridge St,Cambridge,MA,02141,USA,East Cambridge,(617) 491-4119,4,224000,241 Cambridge St
+T W Food,377,Walden St,Cambridge,MA,02138,USA,Huron Village,(617) 864-4745,6,336000,377 Walden St
+Table At Season To Taste,2447,Massachusetts Ave,Cambridge,MA,02140,USA,North Cambridge,(617) 871-9468,6,336000,2447 Massachusetts Ave
+Taco Bell,100,Cambridgeside Pl # 129,Cambridge,MA,02141,USA,East Cambridge,(617) 621-0609,15,839000,100 Cambridgeside Pl # 129
+Taco Truck,83,Mount Auburn St,Cambridge,MA,02138,USA,Harvard Square,(857) 829-3904,6,336000,83 Mount Auburn St
+Tahaza Hummus Kitchen,1,Canal Park,Cambridge,MA,02141,USA,East Cambridge,(857) 259-6960,6,336000,1 Canal Park
+Takemura Japanese Restaurant,18,Eliot St,Cambridge,MA,02138,USA,Harvard Square,(617) 492-6700,6,336000,18 Eliot St
+Tanjore,18,Eliot St,Cambridge,MA,02138,USA,Harvard Square,(617) 868-1900,6,336000,18 Eliot St
+Tanpopo,1815,Massachusetts Ave,Cambridge,MA,02140,USA,Porter Square,(617) 868-5457,4,224000,1815 Massachusetts Ave
+Tasin & Coffee Express,766,Cambridge St,Cambridge,MA,02141,USA,Wellington - Harrington,(617) 714-5398,5,280000,766 Cambridge St
+Tasty Burger,40,Jfk St,Cambridge,MA,02138,USA,Harvard Square,(617) 425-4444,6,336000,40 Jfk St
+Tatte Bakery & Cafe,318,3rd St,Cambridge,MA,02142,USA,,(617) 354-4200,6,336000,318 3rd St
+Tavern,720,Massachusetts Ave,Cambridge,MA,02139,USA,Riverside,(617) 868-9171,50,2796000,720 Massachusetts Ave
+Tavern In The Square-Porter,1815,Massachusetts Ave # P6,Cambridge,MA,02140,USA,Porter Square,(617) 354-7766,12,671000,1815 Massachusetts Ave # P6
+Tealuxe,0,Brattle St,Cambridge,MA,02138,USA,,(617) 441-0077,10,560000,0 Brattle St
+Teavana,100,Cambridgeside Pl # E206,Cambridge,MA,02141,USA,East Cambridge,(617) 494-1023,6,638000,100 Cambridgeside Pl # E206
+Temple Bar,1688,Massachusetts Ave,Cambridge,MA,02138,USA,Neighborhood Nine,(617) 547-5055,50,2796000,1688 Massachusetts Ave
+Thelonious Monkfish,524,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 441-2116,6,336000,524 Massachusetts Ave
+Thistle & Shamrock,62,Walden St,Cambridge,MA,02140,USA,Porter Square,(617) 492-2522,1,56000,62 Walden St
+Tisan Coffee Express,1722,Massachusetts Ave,Cambridge,MA,02138,USA,Neighborhood Nine,(617) 945-1075,5,280000,1722 Massachusetts Ave
+Tommy Doyle's Irish Pub-Rstrnt,1,Kendall Sq # B1101,Cambridge,MA,02139,USA,Wellington - Harrington,(617) 225-0888,12,671000,1 Kendall Sq # B1101
+Tom's Bao Bao,84,Winthrop St,Cambridge,MA,02138,USA,Harvard Square,(617) 945-0067,6,0,84 Winthrop St
+Tory Row,3,Brattle St,Cambridge,MA,02138,USA,Harvard Square,(617) 876-8769,20,1119000,3 Brattle St
+Toscanini's Ice Cream,899,Main St,Cambridge,MA,02139,USA,Area IV,(617) 491-5877,48,2684000,899 Main St
+Toscano Harvard Square,52,Brattle St # A-B,Cambridge,MA,02138,USA,Harvard Square,(617) 354-5250,6,336000,52 Brattle St # A-B
+Trata,49,Mount Auburn St,Cambridge,MA,02138,USA,Harvard Square,(617) 349-1650,6,336000,49 Mount Auburn St
+Trattoria Pulcinella,147,Huron Ave,Cambridge,MA,02138,USA,Neighborhood Nine,(617) 491-6336,4,224000,147 Huron Ave
+Tupelo-Cambridge,1193,Cambridge St,Cambridge,MA,02139,USA,Inman Square,(617) 868-0004,10,560000,1193 Cambridge St
+Turnip LLC,91,Winthrop St,Cambridge,MA,02138,USA,Harvard Square,(617) 714-3206,25,1398000,91 Winthrop St
+Uno Pizzeria & Grill,22,Jfk St,Cambridge,MA,02138,USA,Harvard Square,(617) 497-1530,70,3914000,22 Jfk St
+Upperwest,1001,Massachusetts Ave,Cambridge,MA,02138,USA,Mid-Cambridge,(617) 797-4112,6,336000,1001 Massachusetts Ave
+Veggie Galaxy,450,Massachusetts Ave # 2,Cambridge,MA,02139,USA,Cambridgeport,(617) 497-1513,12,671000,450 Massachusetts Ave # 2
+Viale,502,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 576-1900,6,336000,502 Massachusetts Ave
+Village Kitchen,359,Huron Ave,Cambridge,MA,02138,USA,West Cambridge,(617) 491-3133,3,168000,359 Huron Ave
+Wafuya,1815,Massachusetts Ave,Cambridge,MA,02140,USA,Porter Square,(781) 985-6668,6,336000,1815 Massachusetts Ave
+Wagamama,57,Jfk St,Cambridge,MA,02138,USA,Harvard Square,(617) 499-0930,55,3075000,57 Jfk St
+Wasabi At Porter LLC,2088,Massachusetts Ave,Cambridge,MA,02140,USA,North Cambridge,(857) 242-3950,6,336000,2088 Massachusetts Ave
+West Bridge,1,Kendall Sq # B3102,Cambridge,MA,02139,USA,Wellington - Harrington,(617) 945-0221,6,336000,1 Kendall Sq # B3102
+West Side Lounge,1680,Massachusetts Ave,Cambridge,MA,02138,USA,Neighborhood Nine,(617) 441-5566,20,1119000,1680 Massachusetts Ave
+Whitney's Cafe Inc,37,Jfk St,Cambridge,MA,02138,USA,Harvard Square,(617) 354-8172,6,322000,37 Jfk St
+Whole Foods Market,340,River St,Cambridge,MA,02139,USA,Cambridgeport,(617) 876-6990,200,39466000,340 River St
+Whole Foods Market,200,Alewife Brook Pkwy,Cambridge,MA,02138,USA,Cambridge Highlands,(617) 491-0040,260,51305000,200 Alewife Brook Pkwy
+Whole Foods Market,115,Prospect St,Cambridge,MA,02139,USA,Mid-Cambridge,(617) 492-0070,100,19733000,115 Prospect St
+Whole Foods Market Regl Office,125,Cambridgepark Dr # 5,Cambridge,MA,02140,USA,,(617) 492-5500,60,12868000,125 Cambridgepark Dr # 5
+Windsor Inn,85,Windsor St # 87,Cambridge,MA,02139,USA,Area IV,(617) 838-8834,2,229000,85 Windsor St # 87
+Wok N Roll Restaurant,1908,Massachusetts Ave,Cambridge,MA,02140,USA,Porter Square,(617) 497-8638,4,224000,1908 Massachusetts Ave
+World One,575,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 661-6300,6,336000,575 Massachusetts Ave
+Wrapro Falafel & Grille,1670,Massachusetts Ave,Cambridge,MA,02138,USA,Neighborhood Nine,(617) 876-0311,6,336000,1670 Massachusetts Ave
+Yan 2000 LLC,1001,Massachusetts Ave,Cambridge,MA,02138,USA,Mid-Cambridge,(617) 714-5985,6,336000,1001 Massachusetts Ave
+Za Restaurant,350,3rd St,Cambridge,MA,02142,USA,Kendall Square,(617) 452-9292,10,560000,350 3rd St
+Zephyr On The Charles,575,Memorial Dr,Cambridge,MA,02139,USA,Mit,(617) 441-6510,275,15375000,575 Memorial Dr
+Zigo,600,Memorial Dr # W98,Cambridge,MA,02139,USA,Mit,(617) 715-5361,6,336000,600 Memorial Dr # W98
+Zigo,157,6th St # 1,Cambridge,MA,02142,USA,,(617) 225-2223,15,839000,157 6th St # 1
+Zinneken's,1154,Massachusetts Ave,Cambridge,MA,02138,USA,Riverside,(617) 876-0836,10,560000,1154 Massachusetts Ave
+Zoe's,1105,Massachusetts Ave # 7,Cambridge,MA,02138,USA,Mid-Cambridge,(617) 495-0055,8,448000,1105 Massachusetts Ave # 7
+Zuzu,474,Massachusetts Ave,Cambridge,MA,02139,USA,Cambridgeport,(617) 864-3278,6,336000,474 Massachusetts Ave
