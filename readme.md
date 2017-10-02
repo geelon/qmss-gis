@@ -7,6 +7,7 @@ Contents
 --------
 
 - [Syllabus](syllabus.pdf)
+- [Lab 4 - October 2](#lab4)
 - [Lab 3 - September 25](#lab3)
 - [Homework 2](#homework2)
 - [Lab 2 - September 18](#lab2)
@@ -15,15 +16,23 @@ Contents
 - [Downloads/Software](#downloads)
 
 
+Lab4
+----
+
+- Lab 4 files: [lab_4.zip](lab4/lab_4.zip)
+
+
 Lab3
 ----
 ### Files
 
-- [tl_2013_06_tract.zip](lab3/tl_2013_06_tract.zip)
+- California census tracts: [tl_2013_06_tract.zip](lab3/tl_2013_06_tract.zip)
 - [cambridge_restaurants.txt](lab3/cambridge_restaurants.txt)
 - [ca_tracts_pop.csv](lab3/ca_tracts_pop.csv)
 - [LA_address_data.csv](lab3/LA_address_data.csv)
 - [Super.geocoder.w.no.bing.maps.key.R](lab3/Super.geocoder.w.no.bing.maps.key.R)
+
+
 
 
 Homework2
