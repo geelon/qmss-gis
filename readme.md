@@ -1,6 +1,8 @@
 QMSS GIS/Spatial Analysis
 =========================
 
+_Course taught by Prof. Michael Parrott._
+
 While everyone is still getting settled and added to canvas, we'll share the files and notes here. If you find any errors/broken links, please email me at *geelon.so [at] columbia [dot] edu*.
 
 Contents
