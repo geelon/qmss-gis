@@ -9,6 +9,7 @@ Contents
 --------
 
 - [Syllabus](syllabus.pdf)
+- [Lab 5 - October 9](#lab5)
 - [Lab 4 - October 2](#lab4)
 - [Lab 3 - September 25](#lab3)
 - [Homework 2](#homework2)
@@ -16,6 +17,30 @@ Contents
 - [Homework 1](#homework1)
 - [Lab 1 - September 11](#lab1)
 - [Downloads/Software](#downloads)
+
+
+Lab5
+----
+### Software
+
+- [GeoDa](https://spatial.uchicago.edu/software), download GeoDa (and not GeoDaSpace/PySAL spreg API)
+
+### Using GeoDa
+
+Import data
+<img src="lab5/import.png" />
+
+Calculate Weight matrix (there are two ways):
+
+<img src="lab5/weights.png" />
+<img src="lab5/weights_2.png" />
+<img src="lab5/polyid.png" />
+<img src="lab5/queen.png" />
+
+Cluster Analysis
+<img src="lab5/clustermaps.png" />
+<img src="lab5/select_all.png"/>
+<img src="lab5/output.png" />
 
 
 Lab4
